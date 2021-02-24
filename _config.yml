@@ -13,6 +13,13 @@ author:
   url:               https://www.facebook.com/younghunj
   email:             starrysky422@snu.ac.kr
 
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
 # Gems
 plugins:
   - jekyll-paginate
