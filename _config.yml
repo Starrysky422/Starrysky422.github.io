@@ -5,6 +5,7 @@ description:         "A personal website about random mathematical things I stud
 url:                 https://Starrysky422.github.io
 baseurl:             ""
 paginate:            5
+paginate_path: "page:num" 
 permalink:           pretty
 
 # About/contact
