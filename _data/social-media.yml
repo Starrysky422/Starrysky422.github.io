@@ -18,3 +18,9 @@ github:
   id: "Starrysky422"
   href: "https://github.com/"
   fa-icon: "fa-github-square"
+
+rss:
+  title: "RSS"
+  id: ""
+  href: "https://starrysky422.github.io/atom.xml"
+  fa-icon: "fa-rss-square"
