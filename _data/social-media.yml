@@ -20,7 +20,7 @@ github:
   fa-icon: "fa-github-square"
 
 feed:
-  title: "Feed"
+  title: "Atom Feed"
   id: ""
-  href: "https://starrysky422.github.io/atom.xml"
+  href: "https://starrysky422.github.io/feed.xml"
   fa-icon: "fa-rss-square"
