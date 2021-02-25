@@ -1,7 +1,8 @@
 # Setup
 title:               "Starrysky의 수학 노트"
 tagline:             "Younghun Jo's Homepage"
-name:              Younghun Jo
+name:              "Younghun Jo"
+department: "Department of Mathematical Sciences, Seoul National University"
 description:         "A personal website about random mathematical things I study."
 url:                 https://Starrysky422.github.io
 baseurl:             ""

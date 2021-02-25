@@ -3,27 +3,12 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+<img src="/public/assets/images/profile.jpg" alt="Profile Image" width="250" style="float:none"/>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Hi, my name is Younghun Jo.
 
-There are currently two themes built on Poole:
+As of Feb. 2021, I'm a third-year undergraduate student at Seoul National University studying mathematics, currently taking two years off due to the mandatory military service in Korean Army.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I presently have no specific interest. (In other words, interested in various topics!) Meanwhile, I'm studying ergodic theory now.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+This site is maintained by [Jekyll](https://jekyllrb.com), with theme [Lanyon](http://lanyon.getpoole.com).
