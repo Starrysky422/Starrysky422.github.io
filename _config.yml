@@ -2,7 +2,6 @@
 title:               "Starrysky의 수학 노트"
 tagline:             "Younghun Jo's Homepage"
 name:              "Younghun Jo"
-author:           "Starrysky"
 department: "Department of Mathematical Sciences, Seoul National University"
 description:         "A personal website about random mathematical things I study."
 url:                 https://Starrysky422.github.io
@@ -10,6 +9,11 @@ baseurl:             ""
 paginate:            5
 paginate_path: "page:num" 
 permalink:           pretty
+
+# Author Setup
+author:
+  name: "Starrysky"
+  email: "starrysky422@snu.ac.kr"
 
 # Conversion
 markdown: kramdown
