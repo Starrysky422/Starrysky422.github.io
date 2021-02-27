@@ -3,8 +3,7 @@ layout: page
 permalink: /tags/
 title: Tags
 ---
-
-<ul class="tag-cloud">
+<div class="tag-cloud">
 {% for tag in site.tags %}
   <span style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus: 70  }}%">
     <a href="#{{ tag | first | slugize }}">
@@ -12,7 +11,7 @@ title: Tags
     </a> &nbsp;&nbsp;
   </span>
 {% endfor %}
-</ul>
+</div>
 
 <div id="archives">
 {% for tag in site.tags %}
