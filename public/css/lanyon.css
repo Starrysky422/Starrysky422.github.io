@@ -25,6 +25,7 @@
  * Pagination
  * Reverse layout
  * Themes
+ * Tag Cloud
  */
 
 
@@ -41,7 +42,7 @@ body {
 }
 
 html {
-  font-family: "Nanum Gothic", Georgia, "Times New Roman", serif;
+  font-family: "Ubuntu Condensed", "Noto Sans KR", Georgia, "Times New Roman", serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -551,4 +552,27 @@ a.pagination-item:hover {
 /* Only one tweak for a reverse layout */
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
+}
+
+
+
+//* for tag cloud
+.tag-cloud {
+  list-style: none;
+  padding: 0;
+  text-align: justify;
+  font-size: 16px;
+  li {
+    display: inline-block;
+    margin: 0 12px 12px 0;
+  }
+}
+.post-tags {
+  float: left;
+}
+.tag-img {
+  width: 23px;
+  float: left;
+  margin: 0 10px 0 0;
+  padding: 5px 0 0 0;
 }

@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Sample Post with $m^{ath}$ and 한글
+tags: 
+- jekyll
+- blog
 
 ---
 
