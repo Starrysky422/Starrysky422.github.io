@@ -2,7 +2,7 @@
 layout: post
 title: Sample Post with $m^{ath}$ and 한글
 tags: 
-- blog
+- Blog
 ---
 
 <u>This</u> is a *sample* **post**.
