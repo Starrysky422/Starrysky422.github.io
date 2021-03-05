@@ -17,3 +17,7 @@ Also, a displaystyle math:
 $$x = \frac{-b\pm\sqrt{b^2 - 4ac}}{2a}$$
 
 > 한글도 쓸 수 있습니다.
+
+... and a TikZ!
+
+<embed src="/svg/sample-post/image01.svg" type="image/svg+xml" />
