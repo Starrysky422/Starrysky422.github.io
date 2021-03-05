@@ -31,13 +31,11 @@ module Jekyll
 
         @header = <<-'END'
         \documentclass{standalone}
-        \usepackage{tikz}
+        \usepackage{../BlogTikz}
         \begin{document}
-        \begin{tikzpicture}
         END
 
         @footer = <<-'END'
-        \end{tikzpicture}
         \end{document}
         END
       end

@@ -1,0 +1,66 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{BlogTikz}[tikz package for Starrysky blog]
+
+
+\usepackage{kotex}
+\usepackage{amsfonts, amssymb, amsmath, amsthm, latexsym, mathtools, mathabx}
+
+\usepackage{physics}		%to use partial differential
+
+\usepackage{tikz}
+	\usetikzlibrary{calc, quotes, angles, shapes.geometric, decorations.markings}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.17}
+\usepackage{xfp}
+\usepackage{ifthen}
+\tikzstyle{v}=[circle, draw, solid, fill=black, inner sep=0pt, minimum width=3pt]
+\tikzstyle{v2}=[circle, draw, solid, fill=black, inner sep=0pt, minimum width=5pt]
+\tikzset{->-/.style={decoration={
+			markings,
+			mark=at position #1 with {\arrow{>}}},postaction={decorate}}}
+\tikzset{->>-/.style={decoration={
+			markings,
+			mark=at position #1 with {\arrow{>>}}},postaction={decorate}}}
+\tikzset{->>>-/.style={decoration={
+			markings,
+			mark=at position #1 with {\arrow{>>>}}},postaction={decorate}}}
+
+\usepackage{amstext} % for \text macro
+
+
+%\newcommand{\abs}[1]{{\left\lvert #1 \right\rvert}} %absolute value	%already defined in physics
+%\newcommand{\norm}[1]{{\left\lVert #1 \right\rVert}} %norm				%already defined in physics
+\newcommand{\ipdt}[2]{{\left\langle #1,#2 \right\rangle}} %Inner Product
+\newcommand{\gen}[1]{{\left\langle #1 \right\rangle}} %generating
+\newcommand{\floor}[1]{{\left\lfloor #1 \right\rfloor}} %floor
+\newcommand{\ceil}[1]{{\left\lceil #1 \right\rceil}} %ceiling
+\newcommand{\oline}[1]{{\overline{#1\mathstrut}}} %new overline
+\newcommand{\card}[1]{{\left\lvert#1\right\rvert}}
+\newcommand{\seq}[1]{{\left\langle #1 \right\rangle}} %Sequence
+\def\coloneq{\mathrel{\mathop:}\nobreak=}
+\renewcommand{\bar}{\overline}
+\newcommand{\wt}{\widetilde}
+\newcommand{\blank}{{\mathrel{\,\cdot\,}}}
+
+\DeclareMathOperator{\dcup}{\amalg}
+\DeclareMathOperator{\bigdcup}{\coprod}
+\DeclareMathOperator{\wcup}{\vee}
+\DeclareMathOperator{\wcap}{\wedge}
+\newcommand{\xto}{\xrightarrow}
+\newcommand{\ito}{\hookrightarrow}
+\newcommand{\xito}{\xhookrightarrow}
+\newcommand{\xsimeq}[1]{\stackrel{#1}{\simeq}}
+\newcommand{\isom}{\cong}
+\newcommand{\acts}{\mathrel{\reflectbox{$\righttoleftarrow$}}}
+
+\newcommand{\disp}{\displaystyle}
+\DeclareMathOperator{\e}{e}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\C}{\mathbb{C}}
+\renewcommand{\H}{\mathbb{H}}
+\newcommand{\T}{\mathcal{T}}
+\DeclareMathOperator{\bd}{\partial}
+\newcommand{\equivcl}{/{\sim}}
