@@ -1,0 +1,14 @@
+        \documentclass{standalone}
+        \usepackage{../BlogTikz}
+        \begin{document}
+
+\begin{tikzpicture}
+	\draw[->] (-2,0) to (2,0);
+	\draw[->] (0,-.5) to (0,3);
+	\filldraw[thick, fill opacity = 0.2] (-.5,3) to (-.5,.866) arc (120:60:1) to (.5,3);
+	\draw[dotted] (-.5,.866) to (-.5,0);
+	\draw[dotted] (.5,.866) to (.5,0);
+	\node[label=below:{$\frac{1}{2}$}] at (.5,0) {};
+	\node[label=below:{$-\frac{1}{2}$}] at (-.5,0) {};
+\end{tikzpicture}
+        \end{document}

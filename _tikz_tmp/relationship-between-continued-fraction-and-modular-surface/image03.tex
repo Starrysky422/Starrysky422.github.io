@@ -1,0 +1,19 @@
+        \documentclass{standalone}
+        \usepackage{../BlogTikz}
+        \begin{document}
+
+\begin{tikzpicture}
+	\tikzstyle{every node}=[font=\small]
+	\draw (0,3) to (0,0) to (10,0) to (10,2);
+	\draw[domain=0:10,variable=\x] plot ({\x},{3+sin(deg(\x/2))});
+	\draw[thick,->-=.5] (2,0) to (2,3.84);
+	\draw[thick,->-=.5, dotted] (2,3.84) to (6,0);
+	\draw[thick,->-=.5] (6,0) to (6,3.14);
+	\node[label=below:{$(x,y,\epsilon)$}] at (2,0) {};
+	\node[label=below:{$\bar{T}(x,y,\epsilon)$}] at (6,0) {};
+	\node[label=left:{$\psi_t$}] at (2,2) {};
+	\node[label=above:{$r(x,y) = r(x,y,\epsilon)$}] at (2,3.84) {};
+	\node[label=right:{$Y_r$}] at (10,1) {};
+	\node[label=below:{$Y$}] at (9.5,0) {};
+\end{tikzpicture}
+        \end{document}
