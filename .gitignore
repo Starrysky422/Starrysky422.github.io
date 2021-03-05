@@ -44,3 +44,8 @@ bower_components
 
 # Draft Files
 _drafts
+
+# tikz
+_tikz_tmp/*/*.aux
+_tikz_tmp/*/*.log
+_tikz_tmp/*/*.pdf
