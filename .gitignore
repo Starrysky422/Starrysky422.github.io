@@ -46,6 +46,7 @@ bower_components
 _drafts
 
 # tikz
+_pdf2svg
 _tikz_tmp/*/*.aux
 _tikz_tmp/*/*.log
 _tikz_tmp/*/*.pdf
