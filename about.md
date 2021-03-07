@@ -7,7 +7,7 @@ title: About
 
 Hi, my name is Younghun Jo.
 
-As of Feb. 2021, I'm a third-year undergraduate student at Seoul National University studying mathematics, currently taking two years off due to the mandatory military service in Korean Army.
+As of March 2021, I'm a third-year undergraduate student at Seoul National University studying mathematics, currently taking two years off due to the mandatory military service in Korean Army.
 
 I presently have no specific interest. (In other words, interested in various topics!) Meanwhile, I'm studying ergodic theory now.
 
