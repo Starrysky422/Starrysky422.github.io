@@ -95,7 +95,7 @@ Hyperbolic space의 동역학과 연분수 사이의 연관은 ergodic theory의
 
 $$\begin{equation}\lim_{N\to\infty} \mu\left\{ x\in[0,1] : \max_{1\le n\le N} a_n \le \frac{y}{\log 2}N \right\} = e^{-\frac{1}{y}}\tag{6}\end{equation}$$
 
-Galambos의 EVT에 관해서는 다음 포스팅에서 다룰 예정이다. 한편, 앞에서 Sullivan의 asymptotic behavior formula를 증명하는 방식을 따라하면, 연분수에 관해서도 다음과 같은 analogue를 얻을 수 있다.
+Galambos의 EVT에 관해서는 [다음 글]({{ site.baseurl }}/2021/03/09/evt-on-continued-fraction/)에서 다룬다. 한편, 앞에서 Sullivan의 asymptotic behavior formula를 증명하는 방식을 따라하면, 연분수에 관해서도 다음과 같은 analogue를 얻을 수 있다.
 
 > Gauss measure $\mu$에 대해, 거의 모든 $x\in[0,1]$에 대하여 다음이 성립한다.
 >
