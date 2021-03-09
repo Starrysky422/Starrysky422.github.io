@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EVT on modular surface
+title: EVT on Modular Surface
 comments: true
 tags: 
 - Ergodic Theory
