@@ -78,7 +78,7 @@ $$\lim_{N\to\infty} \mu\left\{ x\in[0,1] : \max_{1\le n\le N} a_n \le \frac{y}{\
 >
 > $$\mu(S_{n,N}) = \mu\left\{ x \in [0,1] : a_n \ge N \right\} = \frac{\log(1+\frac{1}{N})}{\log 2}\tag{3}$$
 
-우선 표기의 편의를 위해 $w = \frac{y}{\log 2}N$, $p(w) = \frac{\log(1+\frac{1}{w})}{\log 2}$로 두고, $S_{n,w} = A_n$으로 쓰자. 이때 $\log(1+\frac{1}{x}) = \frac{1}{x} + O_x(\frac{1}{x^2})$이므로, $p(w) = \frac{1}{Ny} + O_N(\frac{1}{N^2})$이다.
+우선 표기의 편의를 위해 $w = \left\lfloor\frac{y}{\log 2}N\right\rfloor$, $p(w) = \frac{\log(1+\frac{1}{w})}{\log 2}$로 두고, $S_{n,w} = A_n$으로 쓰자. 이때 $\log(1+\frac{1}{x}) = \frac{1}{x} + O_x(\frac{1}{x^2})$이므로, $p(w) = \frac{1}{Ny} + O_N(\frac{1}{N^2})$이다.
 
 그런데 만약 $(a_n)_{n\in\mathbb{N}}$가 서로 완전히 독립이었다고 가정하면, Galambos의 EVT는 간단히 증명되었을 것이다.
 
