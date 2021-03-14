@@ -129,9 +129,11 @@ $$\frac{1}{n}\sum_{i=0}^{n-1}r(\overline{T}^i(x,y)) \xrightarrow{n\to\infty} \in
 
 $$\begin{align*}
 &\lim_{T\to\infty} \mu\left\{ v(0)\in T^1 X : \sup_{0\le t\le T} d(v(t),v(0)) \le \log\left(\frac{6y}{\pi}T\right) \right\} \\
-&= \lim_{N\to\infty} \mu\left\{ x\in[0,1] : \max_{1\le n\le N} \log a_n \le \log \left(\frac{y}{\log 2}N\right) \right\} \\&= \lim_{N\to\infty} \mu\left\{ x\in[0,1] : \max_{1\le n\le N} a_n \le \frac{y}{\log 2}N \right\} \\
+&= \lim_{N\to\infty} \mu\left\{ x\in[0,1] : \max_{1\le n\le N} \log a_n \le \log \left(\frac{y}{\log 2}N\right) \right\} \tag{8}\\&= \lim_{N\to\infty} \mu\left\{ x\in[0,1] : \max_{1\le n\le N} a_n \le \frac{y}{\log 2}N \right\} \\
 &= e^{-\frac{1}{y}}
 \end{align*}$$
+
+- 2021.3.15 수정: 사실 $(8)$의 등식은 gap이 있다. 우리는 $T$와 $N$ 사이에 asymptotic한 관계만 보였는데, 위 등식에서는 이들이 서로 같은 것처럼 조작하고 있다. 이 부분을 엄밀하게 계산하려면 CLT를 적용해야 하는데, 기회가 된다면 별도 포스트로 작성하겠다.
 
 
 
