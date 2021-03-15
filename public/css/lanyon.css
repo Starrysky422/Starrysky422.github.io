@@ -308,6 +308,11 @@ a.sidebar-nav-item:focus {
   margin-bottom: 0em;
 }
 
+.post p, .post div, .post > span, .post blockquote > span, .post li > span {
+  font-size: 0.9rem;
+}
+
+
 /* Blog post or page title */
 .page-title,
 .post-title,
