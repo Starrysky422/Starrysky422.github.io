@@ -9,6 +9,8 @@ tags:
 
 이 글에서는 Pollicott의 2009년 논문 "Limiting distributions for geodesics excursions on the modular surface" [4]의 내용을 정리한다.
 
+- 2021.3.17 수정: 현재 이 논문에서 치명적인 gap을 발견하였으며, 이를 해소하기 위해서는 다른 증명을 시도하거나 statement를 완전히 고쳐야 할 것으로 보인다. 본 글에서 Pollicott의 EVT와 그 증명은 잠정적으로 틀린 것으로 본다.
+
 
 
 ## What is Extreme Value Theorem(EVT)?
@@ -134,6 +136,7 @@ $$\begin{align*}
 \end{align*}$$
 
 - 2021.3.15 수정: 사실 $(8)$의 등식은 gap이 있다. 우리는 $T$와 $N$ 사이에 asymptotic한 관계만 보였는데, 위 등식에서는 이들이 서로 같은 것처럼 조작하고 있다. 이 부분을 엄밀하게 계산하려면 CLT를 적용해야 하는데, 기회가 된다면 별도 포스트로 작성하겠다.
+- 2021.3.17 수정: 이 gap이 해소가 안 된다. 기회가 된다면 별도 포스트로 작성하겠다.
 
 
 
