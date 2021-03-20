@@ -3,13 +3,44 @@ MathJax.Hub.Config({
     TeX: {
       equationNumbers: {
         autoNumber: "AMS"
+      },
+      Macros: {
+        subscr: ['_{#1}', 1],
+        abs: ['\\left\\lvert #1 \\right\\rvert', 1],
+        norm: ['\\left\\lVert #1 \\right\\rVert', 1],
+        ipdt: ['\\left\\langle #1,#2 \\right\\rangle', 2],
+        gen: ['\\left\\langle #1 \\right\\rangle', 1],
+        floor: ['\\left\\lfloor #1 \\right\\rfloor', 1],
+        celi: ['\\left\\lceli #1 \\right\\rceli', 1],
+        card: ['\\left\\lvert #1 \\right\\rvert', 1],
+        seq: ['\\left\\langle #1 \\right\\rangle', 1],
+        wt: ['\\widetilde'],
+
+        dcup: ['\\amalg'],
+        bigdcup: ['\\coprod'],
+        wcup: ['\\vee'],
+        wcap: ['\\wedge'],
+        xto: ['\\xrightarrow'],
+        ito: ['\\hookrightarrow'],
+        xsimeq: ['\\stackrel{#1}{\\simeq}', 1],
+        isom: ['\\cong'],
+
+        disp: ['\\displaystyle'],
+        N: ['\\mathbb{N}'],
+        Z: ['\\mathbb{Z}'],
+        Q: ['\\mathbb{Q}'],
+        R: ['\\mathbb{R}'],
+        C: ['\\mathbb{C}'],
+        H: ['\\mathbb{H}'],
+        bd: ['\\partial'],
+        equivcl: ['/{\\sim}']
       }
     },
     tex2jax: {
-    inlineMath: [ ["$", "$"], ["\\(", "\\)"] ],
-    displayMath: [ ["$$", "$$"], ["\\[", "\\]"] ],
-    processEscapes: true,
-  }
+      inlineMath: [ ["$", "$"], ["\\(", "\\)"] ],
+      displayMath: [ ["$$", "$$"], ["\\[", "\\]"] ],
+      processEscapes: true,
+    }
 });
 MathJax.Hub.Register.MessageHook("Math Processing Error",function (message) {
 	  alert("Math Processing Error: "+message[1]);
