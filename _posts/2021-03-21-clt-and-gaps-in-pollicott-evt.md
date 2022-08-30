@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CLT and serious gap in Pollicott's EVT
+title: CLT and gaps in Pollicott's EVT
 comments: true
 tags: 
 - Ergodic Theory
@@ -15,7 +15,7 @@ tags:
 
 [지난 글]({{ site.baseurl }}/2021/03/06/evt-on-modular-surface/)에서 살펴본 Pollicott EVT의 증명을 돌아보자. Pollicott은 geodesic flow에 관한 자신의 EVT가 연분수에 관한 Galambos의 EVT와 실질적으로 같음을 보임으로써 EVT를 증명하였다.
 
-<embed src="/svg/clt-and-serious-gap-in-pollicott-evt/image01.svg" type="image/svg+xml" />
+<embed src="/svg/clt-and-gaps-in-pollicott-evt/image01.svg" type="image/svg+xml" />
 
 조금 더 자세히 적으면, geodesic coding을 볼 때, $n$단계에서 시간은 return-time function $r(x,y)$에 대해 $\sum_{i=0}^{n-1}r(\overline{T}^i(x,y))$로 주어지고, geodesic excursion은 대략 geodesic의 높이로 볼 수 있을 것이다. 일단 앞으로의 표기의 편의를 위해 $T_n = \sum_{i=0}^{n-1}r(\overline{T}^i(x,y))$로 적자. 이때 시간 $T_n$은 ergodic theorem에 의해 $\frac{\pi}{6\log 2}n$으로 근사되고, 높이는 약 $\log a_n$이므로 Galambos EVT의 두 항을 Pollicott EVT의 두 항으로 바꿔치기 할 수 있다는 것이다.
 
@@ -150,7 +150,7 @@ $$\lim_{N\to\infty} \mu\left\{ v(0)\in T^1 X : \sup_{0\le t\le T_N} \exp(d(v(t),
 
 그런데 이게 잘 안 된다. 일단, $\sup\exp(d(v(t),v(0)))$은  $\max a_n$이 아니라 $\max\frac{a_n}{2}$ 스케일이다. 앞의 geodesic excursion 그림을 다시 가져오자.
 
-<embed src="/svg/clt-and-serious-gap-in-pollicott-evt/image02.svg" type="image/svg+xml" />
+<embed src="/svg/clt-and-gaps-in-pollicott-evt/image02.svg" type="image/svg+xml" />
 
 위 그림에서, geodesic의 $y$좌표의 최댓값은 원의 반지름에 해당하므로, 약 $\frac{a_n}{2}$이다. 그리고 $\exp(d(v(t),v(0)))$은 유클리드 거리와 비슷하므로, 곧 $\frac{a_n}{2}$와 비슷하다는 것을 알 수 있다. 따라서 사실 우리가 보일 EVT의 상수는 다음과 같이 수정되어야 한다.
 
