@@ -309,7 +309,7 @@ a.sidebar-nav-item:focus {
 }
 
 .post > p, .post > div, .post > span, .post > blockquote, .post > ul > li {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
 }
 
 .post > .post-date {
@@ -317,7 +317,7 @@ a.sidebar-nav-item:focus {
 }
 
 .post > .post-tags {
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
 
 
