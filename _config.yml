@@ -3,7 +3,7 @@ title:               "Starrysky의 수학 노트"
 tagline:             "Younghun Jo's Homepage"
 name:                "Younghun Jo"
 department:          "Dept. of Mathematical Sciences, Seoul National University"
-description:         "A personal website about random mathematical stuffs I study."
+description:         "A personal website about random mathematical stuff I study."
 url:                 https://Starrysky422.github.io
 baseurl:             ""
 paginate:            5
