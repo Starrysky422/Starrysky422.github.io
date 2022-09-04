@@ -9,6 +9,7 @@ baseurl:             ""
 paginate:            5
 paginate_path:       "page:num" 
 permalink:           pretty
+timezone:            Asia/Seoul
 
 # Author Setup
 author:
