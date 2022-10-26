@@ -16,7 +16,7 @@ This post is a wrap-up of the research internship, advised by [Prof. S. Lim](htt
 
 $$M\subscr{n} = \max\{X\subscr{1},\dots,X\subscr{n}\}.$$
 
-The extreme value problem asks what the vague limit of $\seq{M\subscr{n}}$ is. The easiest case is when $\seq{X\subscr{n}}$ is i.i.d.; the limiting distribution is one of three types by [the Fisher-Tippett-Gnedenko theorem](https://en.wikipedia.org/wiki/Fisher%E2%80%93Tippett%E2%80%93Gnedenko_theorem). Then, the next case we should study would be the sequences that are stationary and *weakly independent*. The entries $\seq{a_n}$ of the continued fraction are one of those.
+The extreme value problem asks what the vague limit of $\seq{M\subscr{n}}$ under a suitable normalization is. The easiest case is when $\seq{X\subscr{n}}$ is i.i.d.; the limiting distribution is one of three types by [the Fisher-Tippett-Gnedenko theorem](https://en.wikipedia.org/wiki/Fisher%E2%80%93Tippett%E2%80%93Gnedenko_theorem). Then, the next case we should study would be the sequences that are stationary and *weakly independent*. The entries $\seq{a_n}$ of the continued fraction are one of those.
 
 
 ## The Classic
