@@ -93,6 +93,7 @@ We will rigorously construct the real numbers, and study basic topology on top o
 ### Main Topics
 - Compactness
 - Heine-Borel theorem
+- Sequential compactness
 
 ### Lecture Note
 - The significance of compactness is highlighted: the extreme value theorem for continuous functions essentially originates from the domain, a closed and bounded interval.
@@ -148,7 +149,7 @@ We will rigorously construct the real numbers, and study basic topology on top o
 - Taylor expansion
 - Riemann integral and Darboux integral
 - Integrability of continuous functions on a bounded interval
-- The fundamental theorem of Calculus
+- The fundamental theorem of calculus
 - Riemann-Stieltjes integral
 - Function of bounded variation
 
@@ -160,7 +161,7 @@ We will rigorously construct the real numbers, and study basic topology on top o
 
   of integral is introduced, along with questions on: "Do we have to divide $[a,b]$ into $n$ equal parts?", "Do we have to choose $x\subscr{k}$ as endpoints of sub-intervals?", and "Are continuous functions integrable?"
 - The definition of **Riemann integral** is given, using the notions of partition, mesh, and Riemann sum, as well as its alternative formulation using **upper and lower Darboux integrals**. The analogical aspect of the Darboux integral with $\limsup$ and $\liminf$ is emphasized.
-- The Riemann integrability of continuous functions on a bounded interval, and its proof using the notion of uniform continuity are covered.
+- The Riemann integrability of continuous functions on a bounded interval, and its proof using the notion of uniform continuity are covered. The **fundamental theorem of calculus** is briefly noted.
 - The **Riemann-Stieltjes integral** is introduced as an analogue of the change of variables, and its consistency with the change of variables under a differentiable integrator is noted. The concepts of **total variation** and **functions of bounded variation** are introduced to address the integrability problem. It is noted that every continuous function is integrable if the integrator is of bounded variation and that every function of bounded variation can be written as a difference between two monotone functions, known as the **Jordan decomposition** of a function.
 - As a final remark, it is noted that the Riemann-Stieltjes integral results in a discrete sum if the integrator has jump discontinuities, which hints at a connection between series and integrals.
 
