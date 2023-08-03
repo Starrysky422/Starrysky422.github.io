@@ -192,7 +192,7 @@ for a shorthand. Fix sufficiently large $N$, and assume that $n \ge N$ and $p\in
 \\]
 Applying the large-deviation estimate for 
 \\[
-	\varepsilon = a\sqrt{\frac{\log n}{N}}
+	\varepsilon = a\sqrt{\frac{\log n}{n}}
 \\]
 where $a>0$ is a constant that will be chosen later, we obtain that 
 
