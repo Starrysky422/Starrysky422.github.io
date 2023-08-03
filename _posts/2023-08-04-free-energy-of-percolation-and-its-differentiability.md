@@ -180,7 +180,7 @@ Using the previous estimate, we will prove that given $0 < p_1 < p_2 < 1$, the s
 	\sum_n \frac{d}{dp}\frac{1}{n}\PP_p[\card{C} = n]
 	= \sum_n \sum_{m,b} \frac{1}{n} a_{nmb} \left(\frac{m}{p} - \frac{b}{1-p}\right)p^m(1-p)^b
 \\]
-converges uniformly on $[p_1,p_2]$. This yields that $\kappa$ is $C^1$ on $(0,1)$. We may manually check the continuous differentiability at each of the points $p = 0,1$ with a few lines of computation.
+converges uniformly on $[p_1,p_2]$. This yields that $\kappa$ is $C^1$ on $(0,1)$. We may manually check the continuous differentiability at each of the points $p = 0,1$ with a few more lines of computation.
 
 Let us write 
 \\[
