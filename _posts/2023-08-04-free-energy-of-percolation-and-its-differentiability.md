@@ -113,7 +113,7 @@ The character $\kappa$ plays a central role in many arguments in probability the
 \\[
 	\kappa(p) = \kappa(1-p) + 1 - 2p
 \\]
-holds by Euler's formula combined with $(1)$. Hence, if the conjecture that $\kappa$ admits a unique singularity at $p = p_c$ is true, then it must be $1/2$ due to the symmetry of the equation around $1/2$. This gives vindication of the fact that $p_c(\LL^2) = 1/2$, but unfortunately, this argument has never been made rigorous, and all proofs of $p_c(\LL^2) = 1/2$ use different methods.
+holds by Euler's formula combined with $(1)$. Hence, if the conjecture that $\kappa$ admits a unique singularity at $p = p_c$ is true, then it must be $1/2$ due to the symmetry of the equation around $1/2$. This gives vindication of the fact that $p_c(\LL^2) = 1/2$, but unfortunately, this argument has never been made rigorous, and all known proofs of $p_c(\LL^2) = 1/2$ use different methods.
 
 As a further remark, we may consider a **site percolation** on a graph, that is, a percolation on the vertices instead of the edges, and define the analogous free energy $\kappa^{\operatorname{site}}$. In particular, if we consider the site percolation on the planar triangular lattice $\mathbb{T}$, then $\mathbb{T}$ is self-dual in the site percolation sense, so we obtain a similar identity
 \\[
