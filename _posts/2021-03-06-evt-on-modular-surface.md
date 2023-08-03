@@ -9,7 +9,7 @@ tags:
 
 이 글에서는 Pollicott의 2009년 논문 "Limiting distributions for geodesics excursions on the modular surface" [4]의 내용을 정리한다.
 
-- 2021.3.21 수정: 이 논문에서 치명적인 gap을 발견하였으며, 이를 해소하기 위해서는 statement를 고칠 필요가 있다. Pollicott의 EVT는 본 글에 서술된 식이 아닌, [다음 글]({{ site.baseurl }}/2021/03/21/clt-and-serious-gap-in-pollicott-evt/)에서 서술한 식으로 생각한다. 해당 식을 사용하더라도 본 글의 내용은 크게 달라지지 않는다.
+- 2021.3.21 수정: 이 논문에서 일부 gap을 발견하였으며, 이를 해소하기 위해서는 statement를 고칠 필요가 있다. Pollicott의 EVT는 본 글에 서술된 식이 아닌, [다음 글]({{ site.baseurl }}/2021/03/21/clt-and-serious-gap-in-pollicott-evt/)에서 서술한 식으로 생각한다. 해당 식을 사용하더라도 본 글의 내용은 크게 달라지지 않는다.
 
 
 

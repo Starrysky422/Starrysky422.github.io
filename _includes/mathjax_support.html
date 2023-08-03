@@ -34,14 +34,26 @@ MathJax.Hub.Config({
         C: ['\\mathbb{C}'],
         H: ['\\mathbb{H}'],
         bd: ['\\partial'],
-        equivcl: ['/{\\sim}']
+        equivcl: ['/{\\sim}'],
+
+        NN: ['\\mathbb{N}'],
+        ZZ: ['\\mathbb{Z}'],
+        QQ: ['\\mathbb{Q}'],
+        RR: ['\\mathbb{R}'],
+        CC: ['\\mathbb{C}'],
+        HH: ['\\mathbb{H}'],
+		PP: ['\\mathbb{P}'],
+		EE: ['\\mathbb{E}'],
+		LL: ['\\mathbb{L}'],
+
+		lrarrow: ['\\leftrightarrow']
       }
     },
     tex2jax: {
       inlineMath: [ ["$", "$"], ["\\(", "\\)"] ],
       displayMath: [ ["$$", "$$"], ["\\[", "\\]"] ],
       processEscapes: true,
-    }
+    },
 });
 MathJax.Hub.Register.MessageHook("Math Processing Error",function (message) {
 	  alert("Math Processing Error: "+message[1]);

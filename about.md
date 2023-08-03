@@ -7,8 +7,6 @@ title: About
 
 Hi, my name is Younghun Jo.
 
-As of March 2023, I'm a third-year undergraduate student at Seoul National University studying mathematics.
+As of August 2023, I'm a third-year undergraduate student at Seoul National University studying mathematics.
 
 I presently have no specific interest. (In other words, interested in various topics!) Meanwhile, I'm studying potential theory and algebraic number theory now.
-
-This site is maintained by [Jekyll](https://jekyllrb.com), with theme [Lanyon](http://lanyon.getpoole.com).
