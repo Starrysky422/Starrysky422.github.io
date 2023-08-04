@@ -8,11 +8,11 @@ tags:
 - Seminar Talk
 ---
 
-This post is based on my talk in June 2023 at the Graduate Probability Reading Seminar in percolation and random-cluster model, supervised by [Prof. I. Seo](http://www.math.snu.ac.kr/~insuk.seo/). I covered the materials from chapter 4 of Grimmett's textbook [3]---about the free energy $\kappa$ of percolation on square lattices and its differentiability properties---with some additional remarks on historical background and recent progresses.
+This post is based on my talk in June 2023 at the Graduate Probability Reading Seminar in percolation and random-cluster model, supervised by [Prof. I. Seo](http://www.math.snu.ac.kr/~insuk.seo/). I covered the materials from chapter 4 of Grimmett's textbook [3]---about the free energy $\kappa$ of percolation on hypercubic lattices and its differentiability properties---with some additional remarks on historical background and recent progresses.
 
 
 ## Our Starting Point
-Given a graph $G$ and probability $p\in [0,1]$, an **(edge) percolation** on $G=(V,E)$ is a random configuration $\omega: E\to \\{0,1\\}$ where $\omega(e) = 1$ with probability $p$ for each $e\in E$ in the independent manner. We say the edge $e$ is **open** if $\omega(e) = 1$, and **closed** otherwise. We write $\PP_p$ for the probability distribution of $\omega$, and $\EE_p$ for the corresponding expectation. Especially, we will mainly consider a percolation on the $d$-dimensional square lattice $G = \LL^d$, where $V(\LL^d) = \ZZ^d$ and $E(\LL^d) = \EE^d$.
+Given a graph $G$ and probability $p\in [0,1]$, an **(edge) percolation** on $G=(V,E)$ is a random configuration $\omega: E\to \\{0,1\\}$ where $\omega(e) = 1$ with probability $p$ for each $e\in E$ in the independent manner. We say the edge $e$ is **open** if $\omega(e) = 1$, and **closed** otherwise. We write $\PP_p$ for the probability distribution of $\omega$, and $\EE_p$ for the corresponding expectation. Especially, we will mainly consider a percolation on the $d$-dimensional hypercubic lattice $G = \LL^d$, where $V(\LL^d) = \ZZ^d$ and $E(\LL^d) = \EE^d$.
 
 <p align="center">
 <embed src="/svg/free-energy-of-percolation-and-its-differentiability/image01.svg" type="image/svg+xml" />
