@@ -65,7 +65,7 @@ We can justify the above 'replacement' as follows. As $C_n(x)$ is always contain
 \\]
 For the other half, note that 
 \\[
-	\sum_{x\in B(n)}\frac{1}{\card{C_n(x)}} - \sum_{x\in B(n)}\frac{1}{\card{C(x)}} \le \sum_{x \lrarrow \bd B(n)}\frac{1}{\card{C(x)}},
+	\sum_{x\in B(n)}\frac{1}{\card{C_n(x)}} - \sum_{x\in B(n)}\frac{1}{\card{C(x)}} \le \sum_{x \lrarrow \bd B(n)}\frac{1}{\card{C_n(x)}},
 \\]
 and the right-hand side is exactly the number of open clusters in $B(n)$ incident with $\bd B(n)$, which is at most $\card{\bd B(n)} \ll \card{B(n)}$.
 
