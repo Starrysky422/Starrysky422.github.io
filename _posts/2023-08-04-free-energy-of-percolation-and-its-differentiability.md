@@ -67,15 +67,15 @@ For the other half, note that
 \\[
 	\sum_{x\in B(n)}\frac{1}{\card{C_n(x)}} - \sum_{x\in B(n)}\frac{1}{\card{C(x)}} \le \sum_{x \lrarrow \bd B(n)}\frac{1}{\card{C_n(x)}},
 \\]
-and the right-hand side is exactly the number of open clusters in $B(n)$ incident with $\bd B(n)$, which is at most $\card{\bd B(n)} \ll \card{B(n)}$.
+and the right-hand side is exactly the number of open clusters in $B(n)$ incident to $\bd B(n)$, which is at most $\card{\bd B(n)} \ll \card{B(n)}$.
 
 
 ## Combinatorial Expression for $\kappa$
-One way to deal with $\kappa$ is to represent it combinatorially. If $C$ is finite, then $C$ is a finite connected subgraph of $\LL^d$ containing $0$, which will be referred to as an **animal**. Let an animal $A \subseteq \LL^d$ with $n$ vertices be given. If $C = A$, then all edges of $A$ must be open, and all the other edges that are incident with $A$ must be closed. Hence,
+One way to deal with $\kappa$ is to represent it combinatorially. If $C$ is finite, then $C$ is a finite connected subgraph of $\LL^d$ containing $0$, which will be referred to as an **animal**. Let an animal $A \subseteq \LL^d$ with $n$ vertices be given. If $C = A$, then all edges of $A$ must be open, and all the other edges that are incident to $A$ must be closed. Hence,
 \\[
 	\PP_p[C = A] = p^m (1-p)^b
 \\]
-with $m = \card{E(A)}$ and $b = \card{\Delta(A)}$ where $\Delta(A)$ is the **edge boundary** of $A$, which is the set of edges not in $A$ incident with $A$.
+with $m = \card{E(A)}$ and $b = \card{\Delta(A)}$ where $\Delta(A)$ is the **edge boundary** of $A$, which is the set of edges not in $A$ incident to $A$.
 
 <p align="center">
 <embed src="/svg/free-energy-of-percolation-and-its-differentiability/image02.svg" type="image/svg+xml" />
