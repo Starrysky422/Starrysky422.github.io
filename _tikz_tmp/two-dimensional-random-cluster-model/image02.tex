@@ -1,0 +1,55 @@
+        \documentclass{standalone}
+        \usepackage{../BlogTikz}
+        \begin{document}
+
+\tikzset{snake it/.style={decorate, decoration={snake, amplitude=3mm, segment length=15mm, post length=0pt}}}
+\begin{tikzpicture}[scale=1]
+\tikzstyle{every node}=[font=\small]
+	\draw[very thick] (0,0) to (1,0) to (1,1) to (0,1) to cycle;
+	\node at (0.5,0.5) {\large$\Lambda(n)$};
+	\draw[very thick, snake it] (0.25,1) to (1,2);
+	\node[above] at (1,2) {\large$\infty$};
+
+	\node at (0.5,-1.75) {$\phi_{p,q}(\cdot) \ge 1-\varepsilon$};
+
+	\draw[->] (1.5,0.5) -- node[above, align=center] {square root\\trick} (3.5,0.5);
+
+	\draw (4,1) to (4,0) to (5,0) to (5,1);
+	\draw[very thick] (4,1) to (5,1);
+	\node at (4.5,0.5) {\large$\Lambda(n)$};
+	\draw[very thick, snake it] (4.5,1) to (4,2);
+	\node[above] at (4,2) {\large$\infty$};
+
+	\node at (4.5,-1.75) {$\phi_{p,q}(\cdot) \ge 1-\varepsilon^{\frac{1}{4}}$};
+
+	\draw[->] (5.5,0.5) -- node[above, align=center] {intersection\\of events} (7.5,0.5);
+
+	\draw (8,0) to (9,0) to (9,1) to (8,1) to cycle;
+	\node at (8.5,0.5) {\large$\Lambda(n)$};
+	\draw[very thick, snake it] (8.5,1) to (8.75,2);
+	\node[above] at (8.75,2) {\large$\infty$};
+	\draw[very thick, snake it] (8.5,0) to (8.75,-1);
+	\node[below] at (8.75,-1) {\large$\infty$};
+	\draw[very thick, dashed, snake it] (8,0.6) to (7,1.5);
+	\node[left] at (7,1.5) {\large$\infty$};
+	\draw[very thick, dashed, snake it] (9,0.7) to (10,1.5);
+	\node[right] at (10,1.5) {\large$\infty$};
+
+	\draw[->] (9.5,0.5) -- node[above] {finite energy} (11.5,0.5);
+
+	\node at (8.5,-1.75) {$\phi_{p,q}(\cdot) \ge 1-4\varepsilon^{\frac{1}{4}}$};
+	
+	\filldraw[draw=black, fill=gray, fill opacity=0.7] (12,0) to (13,0) to (13,1) to (12,1) to cycle;
+	\node at (12.5,0.5) {\large$\Lambda(n)$};
+	\draw[very thick, snake it] (12.75,1) to (12.25,2);
+	\node[above] at (12.25,2) {\large$\infty$};
+	\draw[very thick, snake it] (12.75,0) to (12.25,-1);
+	\node[below] at (12.25,-1) {\large$\infty$};
+	\draw[very thick, dashed, snake it] (12,0.4) to (11,-0.5);
+	\node[left] at (11,-0.5) {\large$\infty$};
+	\draw[very thick, dashed, snake it] (13,0.3) to (14,-0.5);
+	\node[right] at (14,-0.5) {\large$\infty$};
+
+	\node at (12.5,-1.75) {$\phi_{p,q}(\cdot) \ge c(1-4\varepsilon^{\frac{1}{4}})$};
+\end{tikzpicture}
+        \end{document}

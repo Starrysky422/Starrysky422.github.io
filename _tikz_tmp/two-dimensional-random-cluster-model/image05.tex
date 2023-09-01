@@ -1,0 +1,17 @@
+        \documentclass{standalone}
+        \usepackage{../BlogTikz}
+        \begin{document}
+
+\tikzset{snake it/.style={decorate, decoration={snake, amplitude=3mm, segment length=30mm, post length=0pt}}}
+\begin{tikzpicture}[scale=1]
+\tikzstyle{every node}=[font=\small]
+	\node at (0,0) {\textbullet};
+	\node[below right] at (0,0) {\large$0$};
+	
+	\draw[very thick, snake it] (0,0) --node[rectangle, fill=white, anchor=center, minimum width = 1cm, pos=.625] {} (3,4);
+	\node[above] at (3,4) {\large$\partial\Lambda(n)$};
+
+	\draw[very thick, dashed, blue] (2.5,-2.5) to (2.5,2.5) to (0.5,2.5) to (0.5,1.5) to (-1.5,1.5) to (-1.5,0.5) to (-2.5,0.5) to (-2.5,-1.5) to (1.5,-1.5) to (1.5,-2.5) to cycle;
+	\node[above left] at (-1.5,1.5) {\large\textcolor{blue}{$\Gamma$}};
+\end{tikzpicture}
+        \end{document}

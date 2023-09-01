@@ -1,0 +1,36 @@
+        \documentclass{standalone}
+        \usepackage{../BlogTikz}
+        \begin{document}
+
+\tikzset{snake it/.style={decorate, decoration={snake, amplitude=2.5mm, segment length=13mm, post length=0pt}}}
+\begin{tikzpicture}[scale=1]
+\tikzstyle{every node}=[font=\small]
+	\foreach \XCoord in {0,2,4,6,8,10,12}{
+		\draw[very thick] (\XCoord,0) to (\XCoord,4);
+	}
+	\draw (0,0) to (12,0) (0,4) to (12,4);
+
+	\foreach \XCoord in {0,4,8}{
+		\draw[very thick, snake it] (\XCoord,3) to (\XCoord+2,1);
+		\node at (\XCoord,3) {\textbullet};
+		\node[above left] at (\XCoord,3) {\large$x$};
+	}
+	\foreach \XCoord in {2,6,10}{
+		\draw[very thick, snake it] (\XCoord,1) to (\XCoord+2,3);
+		\node at (\XCoord,1) {\textbullet};
+		\node[below left] at (\XCoord,1) {\large$y$};
+	}
+	\node at (12,3) {\textbullet};
+	\node[above left] at (12,3) {\large$x$};
+
+	\node[below] at (0,0) {\large$0$};
+	\node[below] at (2,0) {\large$n$};
+	\node[below] at (4,0) {\large$2n$};
+	\node[below] at (6,0) {\large$3n$};
+	\node[below] at (8,0) {\large$4n$};
+	\node[below] at (10,0) {\large$5n$};
+	\node[below] at (12,0) {\large$6n$};
+	\node[left] at (0,0) {\large$0$};
+	\node[left] at (0,4) {\large$2n$};
+\end{tikzpicture}
+        \end{document}
