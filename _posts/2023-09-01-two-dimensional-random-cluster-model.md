@@ -370,7 +370,7 @@ Now, use four copies of the long rectangle $[0,6n]\times[0,2n]$ to construct the
 <b>Picture 10.</b> Rectangle crossing and circuit in annulus
 </p>
 
-Finally, if $A_n$ occurs, then there must exist a maximal open circuit $\Gamma'$ in $\Delta_n$, and its length must ge $\ge 8n$. If we consider $\LL_\mathrm{d}^2$ as the primal lattice, then $\Gamma'$ can be regarded as an outer circuit. As $A_n$ is a finite union of cylinder events, by planar duality $(2)$, we attain 
+Finally, if $A_n$ occurs, then there must exist a maximal open circuit $\Gamma'$ in $\Delta_n$, and its length must be $\ge 8n$. If we consider $\LL_\mathrm{d}^2$ as the primal lattice, then $\Gamma'$ can be regarded as an outer circuit. As $A_n$ is a finite union of cylinder events, by planar duality $(2)$, we attain 
 \\[\tag{14}
 	\phi^0(A_n) \le \sum_{l \ge 8n} \frac{la_l}{q} \left(\frac{q}{(1+\sqrt{q})^4}\right)^{l/4}.
 \\]
