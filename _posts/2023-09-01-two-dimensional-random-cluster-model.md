@@ -174,7 +174,7 @@ Note that $\psi(q) > 0$ if and only if $q > Q$. We are going to prove the follow
 
 
 ## Proof Overview
-The key objects in the proof are the *maximal dual circuits surrounding the origin*. The quantity we are interested in is the event that the origin is connected to the infinity point, or the boundary $\partial \Lambda(n)$ of a box. Taking complement of the event, there must exist a dual circuit $\Gamma$ that separates the origin from faraway points. Since there are many of these, we will focus on such circuits that are maximal in some sense, which will be denoted by *outer circuits*.
+The key objects in the proof are the *maximal dual circuits surrounding the origin*. The quantity we are interested in is the event that the origin is connected to the infinity point, or the boundary $\partial \Lambda(n)$ of a box. Taking complement of the event, there must exist a dual circuit $\Gamma$ that separates the origin from faraway points. Since there are many of these, we will focus on such circuits that are maximal in some sense, which will be referred as *outer circuits*.
 
 <p align="center">
 <embed src="/svg/two-dimensional-random-cluster-model/image05.svg" type="image/svg+xml" />
