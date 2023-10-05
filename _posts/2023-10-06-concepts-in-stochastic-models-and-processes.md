@@ -8,7 +8,7 @@ tags:
 - Seminar Talk
 ---
 
-In September 2023, I gave an explanatory talk at [K-Garage G++ Math Seminar](https://sites.google.com/view/math-seminar), a peer seminar on diverse topics in mathematics. I introduced important concepts that appear in probability theory: phase transition, mixing time, cutoff, and metastability.
+In September 2023, I gave an introductory talk at [K-Garage G++ Math Seminar](https://sites.google.com/view/math-seminar), a peer seminar on diverse topics in mathematics. I introduced important concepts that appear in probability theory: phase transition, mixing time, cutoff, and metastability.
 
 
 ## Abstract
