@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2024 Winter Mentoring: Introduction on Category Theory"
+title: "2024 Winter Mentoring: Introduction to Category Theory"
 comments: true
 tags: 
 - Category Theory
