@@ -19,5 +19,5 @@ Stochastic models and processes are commonly used to study the behavior of vario
 This is a hand-written note for my talk. 
 <details>
 <summary>Click to expand</summary>
-<object data="/assets/concepts-in-stochastic-models-and-processes/Note_20230910.pdf" width="700" height="1000" type='application/pdf'></object>
+<object data="/assets/2023-10-06-concepts-in-stochastic-models-and-processes/Note_20230910.pdf" width="700" height="1000" type='application/pdf'></object>
 </details>

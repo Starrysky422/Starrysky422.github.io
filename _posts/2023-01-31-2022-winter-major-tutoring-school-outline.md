@@ -4,6 +4,7 @@ title: 2022 Winter Major Tutoring School Lecture Notes
 comments: true
 tags: 
 - Mathematical Analysis
+- Teaching Experience
 - Lecture Note
 ---
 
@@ -11,12 +12,16 @@ During this winter vacation, I conducted a 9-lecture course previewing the upcom
 
 ---
 
-## Course Description
+## Syllabus
+### Course Description
 In high school and freshman year *Calculus*, we learned several mathematical concepts such as limits of sequences, continuity, differentiation, and integration. However, the question remains: do we truly understand these concepts? How are limits defined, and how are the notions of continuity, differentiation, and integration described? Additionally, what are the real numbers? There were too many explanations based on intuition, not logic, to say that we fully understood them. *Introduction to Mathematical Analysis (with practice) 1* aims to thoroughly re-establish the contents of *Calculus* on strict logic, and to gain a deeper understanding of *Calculus* in the process.
 
 *Mathematical Analysis*, along with *Linear Algebra*, is the first subject that students encounter rigorous mathematics. This course will provide an overall flow and structure of the subject, *Introduction to Mathematical Analysis (with practice) 1* to help the mentees not get lost in the repetition of theorem-and-proofs.
 
 We will rigorously construct the real numbers, and study basic topology on top of them. We will also define the limits of sequences and functions, and explore the continuity, differentiation, and integration of single-variable real functions. Furthermore, we will study the properties of sequence spaces and function spaces.
+
+### Course Meeting Times
+2 sessions / week, 1.5 hours / session
 
 ### Required Textbooks
 - 김도한·김성기·계승혁, 《해석개론》, 제2개정판, 서울대학교출판문화원, 2011.
