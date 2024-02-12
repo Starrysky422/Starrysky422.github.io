@@ -24,4 +24,4 @@ This is a note for my talk.
 
 
 ## Photo
-<img src="/assets/2024-01-09-equality-of-fod-and-fom/Photo_resized.jpg" alt="Talk Photo" width="500" style="float:none"/>
+<img src="/assets/2024-01-09-equality-of-fod-and-fom/Photo_resized.jpg" alt="Talk Photo" width="100%" style="float:none"/>
