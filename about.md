@@ -7,6 +7,6 @@ title: About
 
 Hi, my name is Younghun Jo.
 
-As of February 2024, I'm a third-year undergraduate student at Seoul National University studying mathematics.
+As of May 2024, I'm a senior undergraduate student at Seoul National University studying mathematics.
 
-I presently have no specific interest. (In other words, interested in various topics!) Meanwhile, I'm studying potential theory and arithmetic dynamics now.
+My primary focus is on probability theory. Additionally, I have a broad interest in various other mathematical topics, including arithmetic dynamics.
