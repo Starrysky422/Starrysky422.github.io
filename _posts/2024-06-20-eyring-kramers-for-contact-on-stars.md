@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eyring–Kramers Law for Extinction Time of Contact Process on Stars
+title: The Eyring–Kramers Law for Extinction Time of Contact Process on Stars
 comments: true
 tags: 
 - Probability Theory
@@ -9,7 +9,7 @@ tags:
 - Talk
 ---
 
-In June 2024, I gave an [invited talk](https://www.kias.re.kr/kias/activities/seminars/view.do?seqno=PGN1720240530-0003&menuNo=404003) at [KIAS Analysis, PDE & Probability Seminar](http://newton.kias.re.kr/~appseminar/). I presented a precise estimate for the mean extinction time of the contact process with a fixed infection rate on a star graph. The talk was based on my research supervised by [Prof. Insuk Seo](http://www.math.snu.ac.kr/~insuk.seo/), and the preprint of my paper can be found on [arXiv](https://arxiv.org/abs/2405.09501).
+In June 2024, I gave an [invited talk](https://www.kias.re.kr/kias/activities/seminars/view.do?seqno=PGN1720240530-0003&menuNo=404003) at [KIAS Analysis, PDE & Probability Seminar](http://newton.kias.re.kr/~appseminar/). I presented a precise estimate for the mean extinction time of the contact process with a fixed infection rate on a star graph. The talk was based on my research advised by [Prof. Insuk Seo](http://www.math.snu.ac.kr/~insuk.seo/), and the preprint of my paper can be found on [arXiv](https://arxiv.org/abs/2405.09501).
 
 
 ## Abstract

@@ -5,12 +5,15 @@
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
-    <a>{{ site.name }}</a>
+    <a style="text-decoration:none">{{ site.name }}</a>
     <p>{{ site.department }}</p>
     <p>{{ site.description }}</p>
   </div>
 
   <nav class="sidebar-nav">
+
+	<a style="text-decoration:none; padding:.5rem 1rem"><strong>Blog</strong></a>
+
     <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Home</a>
 
     {% comment %}
@@ -26,6 +29,26 @@
         {% endif %}
       {% endif %}
     {% endfor %}
+
+  </nav>
+
+  <br>
+
+  <nav class="sidebar-nav">
+
+	{% comment %}
+      20240712 Modification:
+	  I segregated personal info matters into `layout:about' to ensure that 
+	  these items go to the bottom of the sidebar in correct order.
+    {% endcomment %}
+
+	<a style="text-decoration:none; padding:.5rem 1rem"><strong>About</strong></a>
+
+	<a class="sidebar-nav-item{% if page.title == 'About' %} active{% endif %}" href="{{ '/about' | absolute_url }}">About</a>
+
+	<a class="sidebar-nav-item{% if page.title == 'Talks' %} active{% endif %}" href="{{ '/talks' | absolute_url }}">Talks</a>
+
+	
 
   </nav>
   
