@@ -10,3 +10,5 @@ Hi, my name is Younghun Jo.
 As of July 2024, I'm a senior undergraduate student at Seoul National University studying mathematics.
 
 My primary focus is on probability theory. Additionally, I have a broad interest in various other mathematical topics, including arithmetic dynamics.
+
+Here is my [Curriculum Vitae]({{ site.baseurl }}/assets/CV_Younghun Jo.pdf). (Last updated on July 12, 2024)
