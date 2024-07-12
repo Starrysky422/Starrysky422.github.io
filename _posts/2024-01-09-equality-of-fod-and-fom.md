@@ -5,7 +5,7 @@ comments: true
 tags: 
 - Arithmetic Dynamics
 - Algebraic Geometry
-- Seminar Talk
+- Talk
 ---
 
 In January 2024, I gave a talk at [WDC](https://sites.google.com/view/wdc2024/home?authuser=0), a peer conference on diverse topics in mathematics. I introduced the problem of establishing equality between the field of moduli and a field of definition for a dynamical system on $\mathbb{P}^1$, and the resolution of J. H. Silverman, involving concepts from various mathematical domains.

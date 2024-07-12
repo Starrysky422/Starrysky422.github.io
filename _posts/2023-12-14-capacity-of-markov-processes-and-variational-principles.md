@@ -6,7 +6,7 @@ tags:
 - Probability Theory
 - Metastability
 - Potential Theory
-- Seminar Talk
+- Talk
 ---
 
 In November and December 2023, I gave two introductory talks at Peer Mathematics Seminar, a weekly peer seminar held in Department of Mathematical Sciences, Seoul National University. I introduced potential theoretic concepts and variational principles for practical computation, which can be applied to study of metastable behavior of stochastic processes. The talks were based on the [lecture note](https://arxiv.org/abs/2102.05538) of [Prof. I. Seo](https://www.math.snu.ac.kr/~insuk.seo/).

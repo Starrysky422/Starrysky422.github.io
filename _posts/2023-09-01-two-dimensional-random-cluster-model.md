@@ -6,7 +6,7 @@ tags:
 - Probability Theory
 - Percolation Theory
 - Random-Cluster Model
-- Seminar Talk
+- Talk
 ---
 
 This post is based on my talk in August 2023 at the Graduate Probability Reading Seminar in percolation and random-cluster model, supervised by [Prof. I. Seo](http://www.math.snu.ac.kr/~insuk.seo/). I, jointly with Jeonghyun Ahn, covered the materials from chapter 6 of Grimmett's textbook [6]---about the planar duality, critical probability, and the first order phase transition of the random-cluster model on the planar square lattice---with some additional remarks on recent progresses made by Duminil-Copin and his coresearchers.

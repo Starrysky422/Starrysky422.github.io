@@ -5,7 +5,7 @@ comments: true
 tags: 
 - Probability Theory
 - Percolation Theory
-- Seminar Talk
+- Talk
 ---
 
 This post is based on my talk in June 2023 at the Graduate Probability Reading Seminar in percolation and random-cluster model, supervised by [Prof. I. Seo](http://www.math.snu.ac.kr/~insuk.seo/). I covered the materials from chapter 4 of Grimmett's textbook [3]---about the free energy $\kappa$ of percolation on hypercubic lattices and its differentiability properties---with some additional remarks on historical background and recent progresses.
