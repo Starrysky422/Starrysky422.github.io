@@ -18,6 +18,8 @@ The Eyring--Kramers law for extinction time of contact process on stars ([abstra
 Metastability of Contact Processes ([notes](https://starrysky422.github.io/2024/06/17/metastability-of-contact-processes/))
 0. **[2024/06/11]** Final Presentation Session for SNU Graduate Course: *Algebraic Topology II*<br>
 Cohomology Structure of Fixed Point Sets ([slides](https://starrysky422.github.io/2024/06/11/cohomology-structure-of-fixed-point-sets/))
+0. **[2024/03/21]** Peer Mathematics Seminar<br>
+Local–Global Principle for Periodic Orbits of Polynomial Maps ([notes](https://starrysky422.github.io/2024/03/21/local-to-global-for-polynomial-periodic-orbits/))
 0. **[2023/08/14]** Graduate Percolation & Random-Cluster Model Reading Seminar<br>
 Two Dimensional Random-Cluster Model ([notes](https://starrysky422.github.io/2023/09/01/two-dimensional-random-cluster-model/))
 0. **[2023/06/29]** Graduate Percolation & Random-Cluster Model Reading Seminar<br>
