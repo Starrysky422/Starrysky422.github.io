@@ -14,6 +14,8 @@ The Eyring--Kramers law for extinction time of contact process on stars ([abstra
 
 ## Seminar Talks
 
+0. **[2024/07/26]** Short Talk, [13th Cornell Probability Summer School](https://math.cornell.edu/13th-cornell-probability-summer-school)<br>
+Metastability of contact processes ([slides]({{ site.baseurl }}/2024/07/26/short-talk-at-cornell-probability-summer-school/))
 0. **[2024/06/17]** [SNU Probability Group Reading Seminar](https://sites.google.com/view/snuprob/seminar/reading-seminar?authuser=0)<br>
 Metastability of contact processes ([notes]({{ site.baseurl }}/2024/06/17/metastability-of-contact-processes/))
 0. **[2024/06/11]** Final Presentation Session for SNU Graduate Course: *Algebraic Topology II*<br>
