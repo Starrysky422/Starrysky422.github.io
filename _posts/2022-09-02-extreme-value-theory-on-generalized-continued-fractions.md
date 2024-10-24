@@ -36,11 +36,11 @@ Hence, the extreme value problem of a stationary sequence is essentially the pro
 
 A commonly used way [6] to prove the $\psi$-mixing property is to use the **Kuzmin theorem**. The theorem dates back to the era of Gauss. In 1812, Gauss made a conjecture on the metric theory of continued fractions.
 
-> For $x = [a_1, a_2, \dots]$ in $I = [0,1]$, let $r_n = [a\subscr{n+1}, a\subscr{n+2}, \dots]$. Then
+> For $x = [a_1, a_2, \dots]$ in $I = [0,1]$, let $x_n = [a\subscr{n+1}, a\subscr{n+2}, \dots]$. Then
 > 
 > $$e_n(s) = m(x_n \in [0,s]) - \mu([0,s])$$
 > 
-> tends to zero as $n\to0$, where $m$ is the Lebesgue measure and $\mu$ is the invariant measure of the Gauss map given by 
+> tends to zero as $n\to\infty$, where $m$ is the Lebesgue measure and $\mu$ is the invariant measure of the Gauss map given by 
 > 
 > $$\mu(A) = \frac{1}{\log 2} \int_A \frac{1}{1+s} ds.$$
 

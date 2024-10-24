@@ -5,13 +5,13 @@ title: Talks
 
 ## Invited Talks
 
-0. **[2024/10/2?]** (Scheduled) [2024 KMS Annual Meeting](https://www.kms.or.kr/conference/2024_fall/general/contents.html?period=88&idx=329)<br>
-The Eyring--Kramers law for extinction time of contact process on stars
-0. **[2024/07/26]** Short Talk, [13th Cornell Probability Summer School](https://math.cornell.edu/13th-cornell-probability-summer-school)<br>
+0. **[2024/10/25]** (Scheduled) [2024 KMS Annual Meeting](https://www.kms.or.kr/conference/2024_fall/general/contents.html?period=88&idx=329)<br>
+The Eyring--Kramers law for extinction time of contact process on stars ([abstract](https://www.kms.or.kr/conference/abstract/search_view.html?num=9325&uid=88))
+1. **[2024/07/26]** [13th Cornell Probability Summer School](https://math.cornell.edu/13th-cornell-probability-summer-school)<br>
 Metastability of contact processes ([slides]({{ site.baseurl }}/2024/07/26/short-talk-at-cornell-probability-summer-school/))
-0. **[2024/06/20]** [KIAS Analysis, PDE & Probability Seminar](http://newton.kias.re.kr/~appseminar/)<br>
+1. **[2024/06/20]** [KIAS Analysis, PDE & Probability Seminar](http://newton.kias.re.kr/~appseminar/)<br>
 The Eyring--Kramers law for extinction time of contact process on stars ([abstract](https://www.kias.re.kr/kias/activities/seminars/view.do?seqno=PGN1720240530-0003&menuNo=404003)) ([slides]({{ site.baseurl }}/2024/06/20/eyring-kramers-for-contact-on-stars/))
-0. **[2024/06/17]** [SNU Probability Group Reading Seminar](https://sites.google.com/view/snuprob/seminar/reading-seminar?authuser=0)<br>
+1. **[2024/06/17]** [SNU Probability Group Reading Seminar](https://sites.google.com/view/snuprob/seminar/reading-seminar?authuser=0)<br>
 Metastability of contact processes ([notes]({{ site.baseurl }}/2024/06/17/metastability-of-contact-processes/))
 {: reversed="reversed"}
 {: style="font-size: 0.83rem; line-height:2"}
@@ -33,6 +33,8 @@ Free energy of percolation and its differentiability ([notes]({{ site.baseurl }}
 
 ## Peer Talks
 
+0. **[2024/10/02]** Peer Mathematics Seminar<br>
+Random Walks on Groups
 0. **[2024/03/21]** Peer Mathematics Seminar<br>
 Local–global principle for periodic orbits of polynomial maps ([notes]({{ site.baseurl }}/2024/03/21/local-to-global-for-polynomial-periodic-orbits/))
 0. **[2024/03/03]** [K-Garage G++ Math Seminar](https://sites.google.com/view/math-seminar)<br>
