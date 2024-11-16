@@ -5,8 +5,8 @@ title: Talks
 
 ## Invited Talks
 
-0. **[2024/10/25]** (Scheduled) [2024 KMS Annual Meeting](https://www.kms.or.kr/conference/2024_fall/general/contents.html?period=88&idx=329)<br>
-The Eyring--Kramers law for extinction time of contact process on stars ([abstract](https://www.kms.or.kr/conference/abstract/search_view.html?num=9325&uid=88))
+0. **[2024/10/25]** [2024 KMS Annual Meeting](https://www.kms.or.kr/conference/2024_fall/general/contents.html?period=88&idx=329)<br>
+The Eyring--Kramers law for extinction time of contact process on stars ([abstract](https://www.kms.or.kr/conference/abstract/search_view.html?num=9325&uid=88)) ([slides]({{ site.baseurl }}/2024/10/25/research-talk-at-kms-annual-meeting/))
 1. **[2024/07/26]** [13th Cornell Probability Summer School](https://math.cornell.edu/13th-cornell-probability-summer-school)<br>
 Metastability of contact processes ([slides]({{ site.baseurl }}/2024/07/26/short-talk-at-cornell-probability-summer-school/))
 1. **[2024/06/20]** [KIAS Analysis, PDE & Probability Seminar](http://newton.kias.re.kr/~appseminar/)<br>
@@ -20,11 +20,15 @@ Metastability of contact processes ([notes]({{ site.baseurl }}/2024/06/17/metast
 
 ## Seminar Talks
 
-0. **[2024/06/11]** Final Presentation Session for SNU Graduate Course: *Algebraic Topology II*<br>
+1. **[2024/11/26]** (Scheduled) Final Presentation Session for SNU Graduate Course: *Topics in Topology (Ergodic Theory with a view towards Number Theory)*<br>
+Exponential Mixing
+1. **[2024/11/15]** Seoul National University Dynamics Seminar<br>
+Random Walks and Invariant Random Subgroups ([slides]({{ site.baseurl }}/2024/11/15/random-walks-and-invariant-random-subgroups/))
+1. **[2024/06/11]** Final Presentation Session for SNU Graduate Course: *Algebraic Topology II*<br>
 Cohomology structure of fixed point sets ([slides]({{ site.baseurl }}/2024/06/11/cohomology-structure-of-fixed-point-sets/))
-0. **[2023/08/14]** Graduate Percolation & Random-Cluster Model Reading Seminar<br>
+1. **[2023/08/14]** Graduate Percolation & Random-Cluster Model Reading Seminar<br>
 Two dimensional random-cluster model ([notes]({{ site.baseurl }}/2023/09/01/two-dimensional-random-cluster-model/))
-0. **[2023/06/29]** Graduate Percolation & Random-Cluster Model Reading Seminar<br>
+1. **[2023/06/29]** Graduate Percolation & Random-Cluster Model Reading Seminar<br>
 Free energy of percolation and its differentiability ([notes]({{ site.baseurl }}/2023/08/04/free-energy-of-percolation-and-its-differentiability/))
 {: reversed="reversed"}
 {: style="font-size: 0.83rem; line-height:2"}
@@ -33,8 +37,10 @@ Free energy of percolation and its differentiability ([notes]({{ site.baseurl }}
 
 ## Peer Talks
 
+0. **[2024/10/29]** Peer Mathematics Seminar<br>
+Spin Glass Theory ([notes]({{ site.baseurl }}/2024/10/29/spin-glass-theory/))
 0. **[2024/10/02]** Peer Mathematics Seminar<br>
-Random Walks on Groups
+Random Walks on Groups ([notes]({{ site.baseurl }}/2024/10/02/random-walks-on-groups/))
 0. **[2024/03/21]** Peer Mathematics Seminar<br>
 Local–global principle for periodic orbits of polynomial maps ([notes]({{ site.baseurl }}/2024/03/21/local-to-global-for-polynomial-periodic-orbits/))
 0. **[2024/03/03]** [K-Garage G++ Math Seminar](https://sites.google.com/view/math-seminar)<br>

@@ -12,7 +12,7 @@ In February 2024, I gave a talk at Peer Mathematics Seminar, a weekly peer semin
 
 
 ## Lecture Note
-This is a note for my talk. 
+These are notes for my talk. 
 <details>
 <summary>Click to expand</summary>
 <object data="/assets/2024-02-15-determinantal-point-process/DPP_240215.pdf" width="700" height="1000" type='application/pdf'></object>

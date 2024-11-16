@@ -11,7 +11,7 @@ In March 2024, I gave a talk at Peer Mathematics Seminar, a weekly peer seminar 
 
 
 ## Lecture Note
-This is a hand-written note for my talk. 
+These are hand-written notes for my talk. 
 <details>
 <summary>Click to expand</summary>
 <object data="/assets/2024-03-21-local-to-global-for-polynomial-periodic-orbits/LocalGlobal_240321_resized.pdf" width="700" height="1000" type='application/pdf'></object>

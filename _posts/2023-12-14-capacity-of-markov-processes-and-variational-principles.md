@@ -13,7 +13,7 @@ In November and December 2023, I gave two introductory talks at Peer Mathematics
 
 
 ## Lecture Note
-This is a hand-written note for my talk. 
+These are hand-written notes for my talk. 
 <details>
 <summary>Click to expand</summary>
 <object data="/assets/2023-12-14-capacity-of-markov-provesses-and-variational-principles/Peer Seminar 231109_Capacity of Markov Processes.pdf" width="700" height="1000" type='application/pdf'></object>

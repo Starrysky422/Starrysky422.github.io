@@ -13,7 +13,7 @@ In June 2024, I gave a talk at the [Reading Seminar](https://sites.google.com/vi
 
 
 ## Lecture Note
-This is a hand-written note for my talk. 
+These are hand-written notes for my talk. 
 <details>
 <summary>Click to expand</summary>
 <object data="/assets/2024-06-17-metastability-of-contact-processes/Metastability of Contact Processes_240617_resized.pdf" width="700" height="1000" type='application/pdf'></object>

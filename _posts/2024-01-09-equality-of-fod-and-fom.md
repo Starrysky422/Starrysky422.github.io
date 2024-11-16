@@ -16,7 +16,7 @@ The dynamics of rational maps on $\mathbb{P}^1$ is a central focus in the theory
 
 
 ## Lecture Note
-This is a note for my talk. 
+These are notes for my talk. 
 <details>
 <summary>Click to expand</summary>
 <object data="/assets/2024-01-09-equality-of-fod-and-fom/WDC_20240109.pdf" width="700" height="1000" type='application/pdf'></object>
