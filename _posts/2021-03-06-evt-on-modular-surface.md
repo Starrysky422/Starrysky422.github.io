@@ -135,7 +135,7 @@ $$\begin{align*}
 &= e^{-\frac{1}{y}}
 \end{align*}$$
 
-- 2021.3.21 수정: 사실 $(8)$의 등식은 gap이 있다. 우리는 $T$와 $N$ 사이에 asymptotic한 관계만 보였는데, 위 등식에서는 이들이 서로 같은 것처럼 조작하고 있다. 이 부분을 엄밀하게 계산하려면 CLT를 적용해야 하는데, 이는 [다음 글]({{ site.baseurl }}/2021/03/21/clt-and-serious-gap-in-pollicott-evt/)을 참조한다.
+- 2021.3.21 수정: 사실 $(8)$의 등식은 gap이 있다. 우리는 $T$와 $N$ 사이에 asymptotic한 관계만 보였는데, 위 등식에서는 이들이 서로 같은 것처럼 조작하고 있다. 이 부분을 엄밀하게 계산하려면 CLT를 적용해야 하는데, 이는 [다음 글]({{ site.baseurl }}/2021/03/21/clt-and-gaps-in-pollicott-evt/)을 참조한다.
 
 
 
