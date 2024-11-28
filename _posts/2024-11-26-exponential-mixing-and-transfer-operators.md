@@ -18,7 +18,7 @@ Transfer operators offer a powerful framework for establishing the exponential m
 These are the slides for my talk. 
 <details>
 <summary>Click to expand</summary>
-<object data="/assets/2024-11-26-exponential-mixing/ExpMix.pdf" width="700" height="1000" type='application/pdf'></object>
+<object data="/assets/2024-11-26-exponential-mixing-and-transfer-operators/ExpMix.pdf" width="700" height="1000" type='application/pdf'></object>
 </details>
 
 

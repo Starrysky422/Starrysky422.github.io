@@ -20,8 +20,8 @@ Metastability of contact processes ([notes]({{ site.baseurl }}/2024/06/17/metast
 
 ## Seminar Talks
 
-1. **[2024/11/26]** (Scheduled) Final Presentation Session for SNU Graduate Course: *Topics in Topology (Ergodic Theory with a view towards Number Theory)*<br>
-Exponential Mixing
+1. **[2024/11/26]** Final Presentation Session for SNU Graduate Course: *Topics in Topology (Ergodic Theory with a view towards Number Theory)*<br>
+Exponential Mixing and Transfer Operators ([slides]({{ site.baseurl }}/2024/11/26/exponential-mixing-and-transfer-operators/))
 1. **[2024/11/15]** Seoul National University Dynamics Seminar<br>
 Random Walks and Invariant Random Subgroups ([slides]({{ site.baseurl }}/2024/11/15/random-walks-and-invariant-random-subgroups/))
 1. **[2024/06/11]** Final Presentation Session for SNU Graduate Course: *Algebraic Topology II*<br>
