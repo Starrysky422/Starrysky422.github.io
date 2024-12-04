@@ -8,7 +8,7 @@ title: Research
 - Dates of Experience: Sep 2022 – Oct 2024
 
 <font size="3">
-I derived a precise estimate for the mean extinction time of the contact process on stars. I incorporated special function theoretic techniques to perform a detailed energy landscape analysis, then applied the potential-theoretic approach to metastability. This novel integration of methodologies, previously unutilized in this context, successfully computed the first sharp estimate. I submitted a paper to the Electronic Journal of Probability, and delivered research talks at the Cornell Probability Summer School and the 2024 KMS Annual Meeting.
+I derived a precise estimate for the mean extinction time of the contact process on stars. I incorporated special function theoretic techniques to perform a detailed energy landscape analysis, then applied the potential-theoretic approach to metastability. This novel integration of methodologies, previously unutilized in this context, successfully computed the first sharp estimate. I submitted a research paper, and delivered talks at the Cornell Probability Summer School and the 2024 KMS Annual Meeting.
 </font> 
 
 ---
