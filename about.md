@@ -11,4 +11,4 @@ As of December 2024, I'm a senior undergraduate student at Seoul National Univer
 
 My primary focus is on probability theory. Additionally, I have a broad interest in various other mathematical topics, including arithmetic dynamics and ergodic theory.
 
-Here is my [Curriculum Vitae]({{ site.baseurl }}/assets/CV_Younghun Jo.pdf). (Last updated on September 13, 2024)
+Here is my [Curriculum Vitae]({{ site.baseurl }}/assets/CV_Younghun Jo.pdf). (Last updated on December 14, 2024)
