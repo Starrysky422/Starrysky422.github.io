@@ -30,8 +30,8 @@ I initially studied the arithmetic dynamics of rational maps, focusing particula
 </font> 
 
 
-- [2024/03/22] Local–global principle for periodic orbit types ([notes]({{ site.baseurl }}/assets/research/LocalGlobal.pdf/))
-- [2024/09/24] Existence of large periodic orbits ([notes]({{ site.baseurl }}/assets/research/NontrivialOrbit.pdf/))
+- [2024/03/22] Local–global principle for periodic orbit types ([notes]({{ site.baseurl }}/assets/research/LocalGlobal.pdf))
+- [2024/09/24] Existence of large periodic orbits ([notes]({{ site.baseurl }}/assets/research/NontrivialOrbit.pdf))
 {: style="font-size: 0.83rem; line-height:2"}
 
 ---
