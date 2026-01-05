@@ -7,8 +7,9 @@ title: About
 
 Hi, my name is Younghun Jo.
 
-As of December 2024, I'm a senior undergraduate student at Seoul National University studying mathematics.
+As of January 2026, I'm a first-year mathematics PhD student at [MIT](https://math.mit.edu/directory/profile.html?pid=2773).
+Before that, I received a bachelor's degree in mathematics from Seoul National University.
 
-My primary focus is on probability theory. Additionally, I have a broad interest in various other mathematical topics, including arithmetic dynamics and ergodic theory.
+My research interests are in probability theory, particularly in problems that intertwine probability with other areas of mathematics.
 
-Here is my [Curriculum Vitae]({{ site.baseurl }}/assets/CV_Younghun Jo.pdf). (Last updated on December 14, 2024)
+Here is my [Curriculum Vitae]({{ site.baseurl }}/assets/CV_Younghun Jo.pdf). (Last updated on January 6, 2026)

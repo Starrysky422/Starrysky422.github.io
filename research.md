@@ -14,7 +14,7 @@ I derived a precise estimate for the mean extinction time of the contact process
 </font> 
 
 
-- Research paper: arXiv:2405.09501 ([link](https://arxiv.org/abs/2405.09501))
+- Research paper: **Jo, Y.**, The Eyring–Kramers law for the extinction time of the contact process on stars, *Electronic Journal of Probability*. (2025) ([arXiv](https://arxiv.org/abs/2405.09501)) ([journal](https://projecteuclid.org/journals/electronic-journal-of-probability/volume-30/issue-none/The-EyringKramers-law-for-the-extinction-time-of-the-contact/10.1214/25-EJP1393.full))
 - Research talks: ([talk 1]({{ site.baseurl }}/2024/06/17/metastability-of-contact-processes/)) ([talk 2]({{ site.baseurl }}/2024/06/20/eyring-kramers-for-contact-on-stars/)) ([talk 3]({{ site.baseurl }}/2024/07/26/short-talk-at-cornell-probability-summer-school/)) ([talk 4]({{ site.baseurl }}/2024/10/25/research-talk-at-kms-annual-meeting/))
 {: style="font-size: 0.83rem; line-height:2"}
 
