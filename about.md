@@ -3,7 +3,9 @@ layout: about
 title: About
 ---
 
-<img src="/public/assets/images/profile_resized.jpg" alt="Profile Image" width="250" style="float:none"/>
+<a href="/public/assets/images/profile.jpg" target="_blank">
+	<img src="/public/assets/images/profile_resized.jpg" alt="Profile Image" width="400" style="float:none"/>
+</a>
 
 Hi, my name is Younghun Jo.
 
